@@ -1,0 +1,6 @@
+
+0-1 km vertical wind sheer:  2.09 m/s
+0-3 km vertical wind sheer: 10.20 m/s
+0-6 km vertical wind sheer: 23.62 m/s
+
+ Vertical wind shear is the difference between the speed of the wind at two different altitudes.
